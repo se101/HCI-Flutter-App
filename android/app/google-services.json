@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "85844430573",
+    "project_id": "orbitfit1",
+    "storage_bucket": "orbitfit1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85844430573:android:150107c9b8b203c8ab86e4",
+        "android_client_info": {
+          "package_name": "com.ShreyaE.orbitFit1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85844430573-vg0eh36ubtkfsbd8mkqgfvb45l3pi5r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1mUB5UxUlDWxtU1vgLV8JFJQkKrx_9h0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85844430573-vg0eh36ubtkfsbd8mkqgfvb45l3pi5r3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
